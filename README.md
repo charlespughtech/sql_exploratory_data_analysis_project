@@ -19,8 +19,7 @@ Welcome to my **SQL Exploratory Data Analysis Project** repository!
 
 ## 📖 Project Overview
 
-**This project follows up from the SQL Data Warehouse Project on my GitHub**
-- see: [charlespughtech/sql_data_warehouse_project](https://github.com/charlespughtech/sql_data_warehouse_project)
+**This project follows up from the SQL Data Warehouse Project on my GitHub: [charlespughtech/sql_data_warehouse_project](https://github.com/charlespughtech/sql_data_warehouse_project)
 
 **This project involves:**
 - **Analytical Techniques:** Demonstrating magnitude, ranking, change over time, cumulative, performance, data segmentation, and part-to-whole analyses.
