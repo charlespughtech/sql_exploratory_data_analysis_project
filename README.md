@@ -28,9 +28,9 @@ Welcome to my **SQL Exploratory Data Analysis Project** repository!
 
 ## 🛢 Data Architecture
 
-This project leverages the gold layer of the data warehouse from the [SQL Server Data Warehouse Project](https://github.com/charlespughtech/sql-data-warehouse-project), which contains business-ready data optimized for analytics.
-
+This project leverages the gold layer created during the data warehouse from the [SQL Server Data Warehouse Project](https://github.com/charlespughtech/sql-data-warehouse-project), which contains business-ready data optimized for analytics.
 - **Gold Layer:** Includes tables like `gold.fact_sales`, `gold.dim_products`, and `gold.dim_customers`, as well as views such as `gold.report_customers` and `gold.report_products`.
+- If you are unable to perform the prior project, please use the datasets included within this repository either the gold CSV files (run the 00_init_database.sql to initialise the database) or the BAK file to restore the data.
 
 ---
 
