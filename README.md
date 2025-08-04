@@ -59,7 +59,7 @@ Specifications:
 
 
 ## 🔎 SQL Techniques Used (Basic to Advanced)
-- **`SELECT` Statements:** Used to retrieve specific columns and rows from the database, focusing on key metrics such as sales amounts, product categories, and customer demographics.
+- **`SELECT` and  `SELECT DISTINCT` Statements:** Used to retrieve specific columns and rows from the database, focusing on key metrics such as sales amounts, product categories, and customer demographics.
 - **Filtering:** `WHERE` clauses applied to filter data based on specific conditions, such as date ranges or product categories, ensuring relevant data is analyzed.
 - **Grouping:** `GROUP BY` clauses used to aggregate data by dimensions like product category or customer segment, enabling insights into sales performance across different groups.
 - **Window Functions:** Utilized for advanced analytics, including `LAG()` for previous period comparisons and `AVG() OVER()` for moving averages, enhancing year-over-year comparisons and segmented metrics.
